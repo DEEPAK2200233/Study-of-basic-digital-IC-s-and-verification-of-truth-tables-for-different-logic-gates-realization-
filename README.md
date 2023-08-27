@@ -77,13 +77,13 @@ xnor(yxnor,a,b);
 endmodule
 ``` 
 */
-Truthtable
+##Truthtable
 ![image](https://github.com/DEEPAK2200233/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118707676/99c6fa6d-86a5-493f-8843-e71707dd0381)
 
-RTL realization
+##RTL realization
 ![image](https://github.com/DEEPAK2200233/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118707676/32f060b3-fd0e-4652-b827-f4cfe9cd04de)
 
-Output:
+##Output:
 ![image](https://github.com/DEEPAK2200233/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118707676/bcb4be26-f0ba-4edb-ae2c-ca057f9df9af)
 
 Result:
